@@ -14,28 +14,19 @@
     }
   },
   "modules": [
-    "title",
-    "separator",
     "os",
-    "host",
+    "bootmgr",
+    "board",
+    "chassis",
     "kernel",
     "uptime",
     "packages",
     "shell",
-    "display",
     "wm",
-    "theme",
-    "icons",
-    "cursor",
+    "de",
     "terminal",
-    "cpu",
-    "gpu",
     "memory",
     "swap",
-    "disk",
-    "localip",
-    "locale",
-    "break"
+    "disk"
   ]
 }
-
