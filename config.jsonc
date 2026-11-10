@@ -18,7 +18,9 @@
   "modules": [
     "os",
     "bootmgr",
+    "bios",
     "board",
+    "initsystem",
     "chassis",
     "kernel",
     "uptime",
